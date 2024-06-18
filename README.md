@@ -1,7 +1,7 @@
 # MICCAI 2024 ResTL
 The implementation of "Subject-Adaptive Transfer Learning Using Resting State EEG Signals for Cross-Subject EEG Motor Imagery Classification" early accepted at MICCAI 2024. (Top < 11%)
 
-![Overview](https://github.com/SionAn/MICCAI2024-ResTL/assets/71419863/0a7fa98c-d056-40d4-bd65-6c352c526779)
+![Overview](https://github.com/SionAn/MICCAI2024-ResTL/assets/71419863/e122a447-b6e4-4a01-acb0-0acc0593b7df)
 
 ## Run
 * Example of training script
